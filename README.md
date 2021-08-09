@@ -1,5 +1,5 @@
 # nvimConfig
-# Calculator in javascript
+
 
 Nvim confi for web developer.
 
