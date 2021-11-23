@@ -16,8 +16,8 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'preservim/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 
+
 "More Highlighting
-Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}  " We recommend updating the parsers on update
 Plug 'sheerun/vim-polyglot'
 
 "Airline
@@ -48,4 +48,4 @@ Plug 'psliwka/vim-smoothie'
 Plug 'preservim/nerdcommenter'
 
 "_____________________________
-call plug#end()
+call plug#end()              
