@@ -1,7 +1,7 @@
 # nvimConfig
 
 
-Nvim confi for web developer.
+Nvim config for web developer.
 
 
 
