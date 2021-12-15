@@ -4,9 +4,9 @@
 Nvim config for web developer.
 
 
-1# Install vim-plug for the pluggins.
+1# Install vim-plug for the pluggins, https://github.com/junegunn/vim-plug
 
-2# https://github.com/junegunn/vim-plug
+
 
 3# clone the repositori in .config/nvim
 
